@@ -1,34 +1,23 @@
 {
-    "books":[
+    "hotels":[
       {
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": 1299,
-        "borrowed": false
-      },
+        "category": "Family",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Double",
+        "no_of_persons":"2",
+        "capacity":"3",
+        "cost":"4000",
+        "booked":false,
+        "id":1
+      }
+    ],
+    "users":[
       {
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the half blood prince",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2022",
-        "publisher": "Bloomsbury",
-        "cost": 1399,
-        "borrowed": false
-      },
-      {
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the goblet of fire",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2019",
-        "publisher": "Bloomsbury",
-        "cost": 1199,
-        "borrowed": true
+        "username":"Ankit",
+        "email":"ankit@gmail.com",
+        "password":"ankit123",
+        "id":1
       }
     ]
   }
